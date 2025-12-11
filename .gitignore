@@ -1,0 +1,23 @@
+# Secrets and credentials
+secrets/
+*.txt
+
+# Environment variables
+.env
+
+# Data volumes
+data/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
